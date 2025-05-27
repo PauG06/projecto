@@ -1,1 +1,7 @@
-
+body{
+    background-color: aqua;
+}
+.imagenes{
+    width: 100px;
+    height: 100px;
+}
